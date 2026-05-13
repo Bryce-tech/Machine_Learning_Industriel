@@ -1,0 +1,6 @@
+id_region,x_min,y_min,x_max,y_max,area_px,mean_difference,priority,comment,review_status
+region_001,817,218,994,364,25290,154.84,high,"Candidate region to review: bbox=(817, 218, 994, 364), area_px=25290, mean_difference=154.84.",pending
+region_002,728,382,881,479,11613,105.25,medium,"Candidate region to review: bbox=(728, 382, 881, 479), area_px=11613, mean_difference=105.25.",pending
+region_003,484,112,597,228,8447,98.74,medium,"Candidate region to review: bbox=(484, 112, 597, 228), area_px=8447, mean_difference=98.74.",pending
+region_004,194,149,307,192,3848,102.0,medium,"Candidate region to review: bbox=(194, 149, 307, 192), area_px=3848, mean_difference=102.0.",pending
+region_005,787,525,819,566,1148,83.25,low,"Candidate region to review: bbox=(787, 525, 819, 566), area_px=1148, mean_difference=83.25.",pending

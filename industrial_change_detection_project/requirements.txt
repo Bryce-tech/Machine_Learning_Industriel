@@ -1,0 +1,6 @@
+opencv-python
+scikit-image
+matplotlib
+numpy
+pandas
+notebook<7
