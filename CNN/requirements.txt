@@ -1,0 +1,8 @@
+# TP MNIST / CNN
+tensorflow
+numpy
+matplotlib
+scikit-learn
+notebook
+ipykernel
+keras
